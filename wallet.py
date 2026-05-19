@@ -1,5 +1,5 @@
 class Wallet:
-        """
+    """
     A class representing a wallet.
 
     Attributes:
